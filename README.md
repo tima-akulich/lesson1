@@ -25,6 +25,11 @@ http://www.dsf.unica.it/~fiore/LearningPython.pdf
 http://www.russchooljp.com/wp-content/uploads/2017/05/Python.dlya_.detei_.pdf
 
 # Homework
+- Поставить linux
+- Поставить PyCharm
+- Почитать 3 ссылки по документации
+
+# Homework *
 Создать функцию, которая принимает любое количество неименнованых параметров, и один именнованый параметр `_type`
 
 Сигнатура функции
