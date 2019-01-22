@@ -18,11 +18,9 @@ https://docs.python.org/3/tutorial/controlflow.html
 https://docs.python.org/3/tutorial/datastructures.html
 
 # Books
-http://www.diveintopython3.net
+http://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf
 
-http://www.dsf.unica.it/~fiore/LearningPython.pdf
-
-http://www.russchooljp.com/wp-content/uploads/2017/05/Python.dlya_.detei_.pdf
+http://uchcom7.botik.ru/L/prog/python/python_01.pdf
 
 # Homework
 - Поставить linux
